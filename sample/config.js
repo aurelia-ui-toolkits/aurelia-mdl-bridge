@@ -332,7 +332,7 @@ System.config({
     "npm:stream-browserify@1.0.0": {
       "events": "github:jspm/nodelibs-events@0.1.1",
       "inherits": "npm:inherits@2.0.1",
-      "readable-stream": "npm:readable-stream@1.1.14"
+      "readable-stream": "npm:readable-stream@2.0.6"
     },
     "npm:string-width@1.0.1": {
       "code-point-at": "npm:code-point-at@1.0.0",
